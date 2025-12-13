@@ -1,4 +1,4 @@
-# Where and *Why* Insertion Sort Is Used (With Explanation)
+# Where and *Why* Insertion Sort Is Used
 
 Insertion sort is effective **not because it is fast in all cases**, but because its working style matches certain real-world data patterns. Below are common application types, each explained with **what happens** and **why insertion sort fits**.
 
@@ -184,3 +184,4 @@ Insertion sort is effective when:
 * Only **local changes** occur
 
 > It avoids unnecessary work and uses existing order efficiently.
+
